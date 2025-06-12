@@ -1,12 +1,11 @@
-# 👤 Full Name
+# 👤 Sheikh Muhammad Faiz
 
 > 📌 A short tagline or quote (optional)
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
+B.sc In DIGITAL MARKETING
 ---
 
 ## 🧾 Short Bio
@@ -19,7 +18,6 @@ Write a short paragraph (3–5 sentences) about yourself. Mention your academic 
 
 List your key skills or technologies you are learning.
 
-- Python
 - HTML & CSS
 - Public Speaking
 - Data Analysis
@@ -29,9 +27,9 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- [GitHub](https://github.com/SHEIKHMUHAMMADFAIZ)
+- [LinkedIn](https://linkedin.com/in/SHEIKHMUHAMMADFAIZ)
+
 
 ---
 
@@ -59,6 +57,6 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 yourname@email.com
+📧 sheikhmuhammadfaiz6@email.com
 
 ---
