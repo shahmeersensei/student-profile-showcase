@@ -1,8 +1,8 @@
-👤 Amir Shoukat
+👤 M.Hassan
 📌 web devoloper
 
 🎓 Field of Study
-intermediat and BA.
+intermediate.
 
 🧾 Short Bio
 Write a short paragraph (3–5 sentences) about yourself. Mention your academic background, interests, current learning goals, or anything that helps others understand your professional journey.
@@ -18,15 +18,15 @@ Data Analysis
 
 Team Collaboration
 
-adobe photu shop
+adobe photo shop
 
 git
 
 github
 
 🌐 Links
-[GitHub](https://github.com/Amirshoukat11)
-[LinkedIn](https://www.linkedin.com/in/amir-shoukat-43a9b02a3/)
+[GitHub] https://github.com/mhassan-coder
+[LinkedIn] https://www.linkedin.com/in/hassan-kamdar-257678362/
 Portfolio Website (optional)
 🚀 Projects or Contributions
 Mention any personal, academic, or open-source projects you’ve worked on.
@@ -38,11 +38,12 @@ web development
 
 MS office
 
-Digital Marketing
+Export Sales
 
-Artificial Intelligence
+Web Development 
 
-📬 Contact 0322 2060194
+
+📬 Contact 03322096132
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 amirshoukat123456@gmail.com
+📧 Hassankamdar90@gmail.com
