@@ -1,12 +1,11 @@
-# 👤 Full Name
+# 👤 sheikh muhammad faiz
 
 > 📌 A short tagline or quote (optional)
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
+intermediate in pre engenering, B.sc in digital marketing, 
 ---
 
 ## 🧾 Short Bio
@@ -29,8 +28,8 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
+- [GitHub](https://github.com/sheikhmuhammadfaiz)
+- [LinkedIn](https://linkedin.com/in/sheikhmuhammadfaiz)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
