@@ -1,13 +1,9 @@
-# 👤 Muhammad Umair
+# 👤 Full Name
 
-> 📌 A short tagline or quote (optional)
-
----
+> M Saad Khan 
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
----
+> BS of Computer Science
 
 ## 🧾 Short Bio
 
@@ -29,8 +25,8 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/muhammadumair-dev/student-profile-showcase)
-- [LinkedIn](linkdin)
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://linkedin.com/in/yourusername)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
@@ -59,6 +55,7 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 m78075257@email.com
+📧 yourname@email.com
 
 ---
+
