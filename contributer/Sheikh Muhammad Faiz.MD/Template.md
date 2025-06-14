@@ -5,7 +5,7 @@
 ---
 
 ## 🎓 Field of Study
-B.sc In DIGITAL MARKETING
+Bachelor In DIGITAL MARKETING.
 ---
 
 ## 🧾 Short Bio
@@ -21,6 +21,7 @@ List your key skills or technologies you are learning.
 - HTML & CSS
 - Public Speaking
 - Data Analysis
+- Git & Git Hub
 - Team Collaboration
 
 ---
