@@ -1,12 +1,11 @@
 # 👤 Muhammad Umair
 
-> 📌 A short tagline or quote (optional)
+> 📌 "Code, Learn, Build – One step at a time"
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
+Governor Sindh AI Student SMIT
 ---
 
 ## 🧾 Short Bio
@@ -16,8 +15,6 @@ Write a short paragraph (3–5 sentences) about yourself. Mention your academic 
 ---
 
 ## 💼 Skills
-
-List your key skills or technologies you are learning.
 
 - Python
 - HTML & CSS
@@ -29,13 +26,13 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/muhammadumair-dev/student-profile-showcase)
-- [LinkedIn](linkdin)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- GitHub[(https://github.com/muhammadumair-dev/student-profile-showcase)]
+- Linkdin[https://www.linkedin.com/in/muhammad-umair-ali-853a63352/]
+
 
 ---
 
-## 🚀 Projects or Contributions
+🚀 Projects or Contributions (Will update soon! Currently working on beginner projects.)
 
 Mention any personal, academic, or open-source projects you’ve worked on.
 
@@ -56,9 +53,9 @@ List topics or industries you are curious about or planning to explore.
 ---
 
 ## 📬 Contact (Optional)
-
-If you want others to reach out (e.g., for collaboration), share a professional email:
+email:
 
 📧 m78075257@email.com
 
 ---
+

@@ -1,25 +1,24 @@
-# 👤 Muhammad Umair
+# 👤 Abid muhammad Younus
 
-> 📌 A short tagline or quote (optional)
+> 📌 Learning Modern Web Development 
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
+   Master In Business Administration
 
 ---
 
 ## 🧾 Short Bio
 
-Write a short paragraph (3–5 sentences) about yourself. Mention your academic background, interests, current learning goals, or anything that helps others understand your professional journey.
-
+Performing services as Lecturer Commerce .
 ---
 
 ## 💼 Skills
 
 List your key skills or technologies you are learning.
 
-- Python
+- Teaching
 - HTML & CSS
 - Public Speaking
 - Data Analysis
@@ -29,8 +28,8 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/muhammadumair-dev/student-profile-showcase)
-- [LinkedIn](linkdin)
+- [GitHub](https://github.com/Abidyounus)
+- [LinkedIn](https://linkedin.com/in/Abidyounus)
 - [Portfolio Website](https://yourwebsite.com) *(optional)*
 
 ---
@@ -59,6 +58,7 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 m78075257@email.com
+📧 qureshiabid38@email.com
 
 ---
+

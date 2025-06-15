@@ -1,17 +1,17 @@
-# 👤 Muhammad Umair
+# 👤 Muhammad Haseeb Khalid
 
 > 📌 A short tagline or quote (optional)
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
+B.Sc. in Computer Science, D.A.E in C.I.T etc.
 
 ---
 
 ## 🧾 Short Bio
 
-Write a short paragraph (3–5 sentences) about yourself. Mention your academic background, interests, current learning goals, or anything that helps others understand your professional journey.
+Computer Science graduate skilled in full-stack development with hands-on experience in modern web/mobile technologies. Passionate about exploring AI, blockchain, and startup ecosystems. Currently focused on mastering agentic AI systems while contributing to open-source projects.
 
 ---
 
@@ -21,17 +21,24 @@ List your key skills or technologies you are learning.
 
 - Python
 - HTML & CSS
+- JavaScript
+- React
+- React Native
+- Next Js
+- Node Js
+- Flutter & Dart
+- Git & Github
+- Bootstrap & Tailwind & ShadCN
 - Public Speaking
-- Data Analysis
 - Team Collaboration
 
 ---
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/muhammadumair-dev/student-profile-showcase)
-- [LinkedIn](linkdin)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- [GitHub](https://github.com/A-Haseeb-Dev)
+- [LinkedIn](https://linkedin.com/in/Muhammad-Haseeb-Khalid)
+- [Portfolio Website](https://portfolio-in-react-with-theme-j14a.vercel.app/)
 
 ---
 
@@ -50,7 +57,8 @@ List topics or industries you are curious about or planning to explore.
 
 - Artificial Intelligence
 - Web Development
-- Digital Marketing
+- BlockChain Develooment
+- Agentic AI
 - Startups & Entrepreneurship
 
 ---
@@ -59,6 +67,6 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 m78075257@email.com
+📧 muhammadhaseebkhalid029@email.com
 
 ---
