@@ -1,17 +1,16 @@
-# 👤 Full Name
+# 👤 Muhammad Aqib Jawed
 
 > 📌 A short tagline or quote (optional)
 
 ---
 
 ## 🎓 Field of Study
-e.g., B.Sc. in Computer Science, Mechanical Engineering, Business Administration, etc.
-
+e.g., Bs.Sc. in Computer Science in IQRA UNIVERISITY.
 ---
 
 ## 🧾 Short Bio
 
-Write a short paragraph (3–5 sentences) about yourself. Mention your academic background, interests, current learning goals, or anything that helps others understand your professional journey.
+My Name is Aqib Jawed . Currently im am undergraduate in BSCS AND im also enrolled in short course Moderan Web and Application in Sylani.
 
 ---
 
@@ -19,9 +18,11 @@ Write a short paragraph (3–5 sentences) about yourself. Mention your academic 
 
 List your key skills or technologies you are learning.
 
-- Python
 - HTML & CSS
 - Public Speaking
+- Java
+- C
+- C++
 - Data Analysis
 - Team Collaboration
 
@@ -29,9 +30,7 @@ List your key skills or technologies you are learning.
 
 ## 🌐 Links
 
-- [GitHub](https://github.com/)
-- [LinkedIn](linkdin)
-- [Portfolio Website](https://yourwebsite.com) *(optional)*
+- [GitHub](https://github.com/Aqib-source)
 
 ---
 
@@ -39,7 +38,6 @@ List your key skills or technologies you are learning.
 
 Mention any personal, academic, or open-source projects you’ve worked on.
 
-- 📂 **Project Name** – Short description of what it does and the tech used.
 - 📂 **Another Project** – Description or link to the GitHub repo.
 
 ---
@@ -48,10 +46,10 @@ Mention any personal, academic, or open-source projects you’ve worked on.
 
 List topics or industries you are curious about or planning to explore.
 
-- Artificial Intelligence
+- Java Coding
+- Python
 - Web Development
-- Digital Marketing
-- Startups & Entrepreneurship
+- Sales Management
 
 ---
 
@@ -59,6 +57,6 @@ List topics or industries you are curious about or planning to explore.
 
 If you want others to reach out (e.g., for collaboration), share a professional email:
 
-📧 example@gmail.com
+📧 aqib.jawed331@gmail.com
 
 ---
