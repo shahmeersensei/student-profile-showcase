@@ -1,6 +1,6 @@
 # 🎓 Student Expertise Hub
 
-Welcome to the **Student Expertise Hub** – a collaborative project where students can create and share their professional profiles in one centralized place.
+
 
 This hub is designed to:
 - Help you showcase your skills and interests
